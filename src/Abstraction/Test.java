@@ -14,7 +14,7 @@ abstract class Test1
 	}
 	void m2()
 	{
-		System.out.println("Parent method");
+		System.out.println("Parent new method");
 	}
 	
 }
